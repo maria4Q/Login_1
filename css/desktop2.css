@@ -1,0 +1,28 @@
+.background_login{
+    max-width: 1366rem;
+    padding-top: 2rem;
+    height: 1rem;
+    
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.banner img{
+    width: 10rem;
+    align-self: flex-end;
+}
+.banner h2 span{
+    margin: 1rem;
+    font-size: 5rem;
+    align-self: flex-end;
+}
+.text{
+    font-size: 1rem;
+}
+.formulario{
+    height: 30rem;
+    width: 50rem;
+    padding: 4rem;
+    background-color: #ffffff;
+    border-radius: 4rem 4rem 4rem 4rem;
+}
