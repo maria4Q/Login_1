@@ -1,0 +1,27 @@
+.background_login{
+    height: 100vh;
+    padding-top: 17rem;
+}
+.banner img{
+    width: 45rem;
+    align-self: center;
+}
+.banner h2{
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+    color: white;
+    font-size: 3rem;
+    font-weight: 600;
+}
+.banner span{
+    font-size: 3.4rem;
+    margin-left: 1.5rem;
+    font-weight: 200;
+    color: white;
+}
+.formulario{
+    background-color: #ffffff;
+    border-radius: 4rem 4rem 4rem 4rem;
+    margin-top: 4rem;
+    padding: 3rem;
+}
